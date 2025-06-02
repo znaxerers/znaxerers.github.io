@@ -6,7 +6,6 @@
 
 body {
 	font-family: "basiic", sans-serif;
-  a
 	/*color: white;*/
 	/*background-color: #000000;*/
 	/*width: 880px;*/
@@ -65,7 +64,7 @@ body {
 }
 
 /* Hide the images by default */
-.mySlides1, .mySlides2, .mySlides3, .mySlides4  { 
+.mySlides1, .mySlides2, .mySlides3, .mySlides4, .mySlides5  { 
   display: none;
 }
 
